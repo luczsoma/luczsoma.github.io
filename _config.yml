@@ -1,0 +1,36 @@
+# site settings
+title: Soma Lucz
+subtitle: "Software Engineer & Computer Security Enthusiast"
+email: soma@lucz.co
+description: Professional and personal blog.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://soma.lucz.co
+author:
+street_address:
+city: Budapest
+state:
+zip_code:
+country: Hungary
+phone:
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url: https://facebook.com/luczsoma
+github_url: https://github.com/luczsoma
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url: https://linkedin.com/in/luczsoma/
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/luczsoma
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
