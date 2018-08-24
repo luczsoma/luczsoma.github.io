@@ -2,7 +2,7 @@
 title: Soma Lucz
 subtitle: A professional and personal blog
 email: soma@lucz.co
-description: "I am a Software Engineer & Computer Security Enthusiast. This is my professional and personal blog."
+description: "I am a Software Engineer & Computer Security Enthusiast.<br>This is my professional and personal blog."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://soma.lucz.co
 author: Soma Lucz
@@ -15,20 +15,20 @@ phone:
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 10
 
 # social settings
-500px_url:
 facebook_url: https://facebook.com/luczsoma
+twitter_url: https://twitter.com/luczsoma
+linkedin_url: https://linkedin.com/in/luczsoma
 github_url: https://github.com/luczsoma
+keybase_url: https://keybase.io/somalucz
+pinterest_url: https://pinterest.com/luczsoma
+500px_url:
 gitlab_url:
 googleplus_url:
 instagram_url:
-linkedin_url: https://linkedin.com/in/luczsoma
-pinterest_url: https://pinterest.com/luczsoma
 slack_url:
-twitter_url: https://twitter.com/luczsoma
-keybase_url: https://keybase.io/somalucz
 
 # build settings
 markdown: kramdown
